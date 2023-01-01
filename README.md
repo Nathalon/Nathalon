@@ -7,10 +7,9 @@
 - 🔭 Working on open source projects
 - 👯 Open to collaborate on projects
 
-<details>
-  <summary>📊 Github Stats</summary>
+##
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nathalon&show_icons=true&theme=gotham" alt="Nathalon's Stats" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nathalon&show_icons=true&theme=gotham" alt="Nathalon's Stats" /> 
 
 </details>
 
