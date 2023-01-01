@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Nathalon)](https://git.io/typing-svg)
 
-![giphy](https://user-images.githubusercontent.com/69394316/210125552-3ba27d94-bf07-4307-bb31-49f9e288bc55.gif)
+![programming](https://user-images.githubusercontent.com/69394316/147802356-8b95b587-0749-43c4-8111-57fe4f6525ed.gif)
 
 ##
 
