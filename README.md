@@ -36,6 +36,6 @@
   
 ![Visitor Count](https://profile-counter.glitch.me/{Nathalon}/count.svg) 
 
-##
+## Language Usage Statistics
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathalon"/>
