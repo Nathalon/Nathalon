@@ -35,3 +35,7 @@
 ## Profile Views
   
 ![Visitor Count](https://profile-counter.glitch.me/{Nathalon}/count.svg) 
+
+##
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathalon"/>
