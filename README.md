@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You+can+find+me+between+0+and+65535.;Red+Teaming+all+the+way!;Have+you+mooed+today?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You+can+find+me+between+0-65535.;Red+Teaming+all+the+way!;Have+you+mooed+today?)](https://git.io/typing-svg)
 
 ![programming](https://user-images.githubusercontent.com/69394316/147802356-8b95b587-0749-43c4-8111-57fe4f6525ed.gif)
 
