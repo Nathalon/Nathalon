@@ -2,6 +2,8 @@
 
 ![programming](https://user-images.githubusercontent.com/69394316/147802356-8b95b587-0749-43c4-8111-57fe4f6525ed.gif)
 
+  <p align="center"> <a href="https://t.me/braindisassemblue">Contact Me on Telegram</a> </p>
+
 ##
 
 - Working on open source projects
@@ -19,7 +21,7 @@
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Operating System Usage
+## Familiar with Operating Systems
 
 ![](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
