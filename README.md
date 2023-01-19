@@ -11,7 +11,7 @@
 
 ##
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nathalon&show_icons=true&theme=gotham" alt="Nathalon's Stats" /> 
+<p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nathalon&theme=gotham&line_height=40&hide=css"/> </a>
 
 </details>
 
