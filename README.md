@@ -2,7 +2,7 @@
 
 ![programming](https://user-images.githubusercontent.com/69394316/147802356-8b95b587-0749-43c4-8111-57fe4f6525ed.gif)
 
-  <p align="center"> <a href="https://t.me/braindisassemblue">Contact Me on Telegram</a> </p>
+  <b><p align="center"> <a href="https://t.me/braindisassemblue">Contact Me on Telegram</a> </p></b>
 
 ##
 
