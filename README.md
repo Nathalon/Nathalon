@@ -6,8 +6,8 @@
 
 ##
 
-- Working on open source projects
-- Open to collaborate on projects
+- <b>Working on open source projects</b> 
+- <b>Open to collaborate on projects</b>
 
 ##
 
