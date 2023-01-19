@@ -36,4 +36,4 @@
 
 ## Language Usage Statistics
 
-<p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nathalon&theme=gotham&line_height=40&hide=css"/> </a>
+<p align="left"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nathalon&theme=gotham&line_height=40&hide=css"/> </a>
