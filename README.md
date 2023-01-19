@@ -11,8 +11,6 @@
 
 ##
 
-<p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nathalon&theme=gotham&line_height=40&hide=css"/> </a>
-
 </details>
 
 ## Technical Skills
@@ -38,4 +36,4 @@
 
 ## Language Usage Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathalon"/>
+<p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nathalon&theme=gotham&line_height=40&hide=css"/> </a>
