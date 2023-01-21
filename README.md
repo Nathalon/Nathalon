@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=You+can+find+me+between+0+and+65535.;Red+Teaming+all+the+way.;Have+you+mooed+today?;xXx+Hack+The+Gibson+xXx;Don't+forget+to+take+the+red+pill.)](https://git.io/typing-svg)
 
-![programming](https://user-images.githubusercontent.com/69394316/147802356-8b95b587-0749-43c4-8111-57fe4f6525ed.gif)
-
+<img src="https://user-images.githubusercontent.com/69394316/213891965-4e9c2409-f1f6-45cd-92fe-25f68c468a3d.gif" width="1000" height="660" />
   <p align="center">
       <b><a href="https://t.me/braindisassemblue">Contact Me on Telegram</a></b>
 </p>
