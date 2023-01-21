@@ -3,8 +3,7 @@
 ![programming](https://user-images.githubusercontent.com/69394316/147802356-8b95b587-0749-43c4-8111-57fe4f6525ed.gif)
 
   <p align="center">
-      <b><a href="braindisassemblue@gmail.com" target="_blank">
-        Drop me a Email</a></b> <b>or</b> <b><a href="https://t.me/braindisassemblue">Contact Me on Telegram</a></b> <br>
+      <b><a href="https://t.me/braindisassemblue">Contact Me on Telegram</a></b>
       
 </p>
 
