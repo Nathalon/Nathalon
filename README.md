@@ -6,8 +6,7 @@
 </p>
 
 ##
-
-![Nathalon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalon&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&hide_border=true)
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nathalon&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Nathalon" /></p>
 
 ##
 
