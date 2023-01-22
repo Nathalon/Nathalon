@@ -7,7 +7,7 @@
 
 ##
 
-![Nathalon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalon&show_icons=true&theme=dark)
+![Nathalon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalon&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&hide_border=true)
 
 ##
 
