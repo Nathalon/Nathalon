@@ -10,8 +10,8 @@
 
 ##
 
-- <b>Working on open source projects</b> 
-- <b>Open to collaborate on projects</b>
+<p align="center"> <b>  Working on open source projects</b>
+<p align="center"> <b>  Open to collaborate on projects</b>
 
 ##
 
