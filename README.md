@@ -41,4 +41,4 @@
 
 ## Language Usage Statistics
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathalon&theme=dark)]
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathalon&theme=dark&langs_count=8&layout=compact&hide_border=true)
