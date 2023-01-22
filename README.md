@@ -53,6 +53,14 @@
   <a href="https://www.google.com/chromebook/chrome-os/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" alt="chromeos" width="50" height="50" />
   </a>
+
+##
+
+<p align="center"> <b> Content Mananement Systems (CMS) </p></b>
+
+  <a href="https://www.joomla.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="joomla" width="50" height="50" />
+  </a>
   
 ##
 
