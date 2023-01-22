@@ -33,15 +33,21 @@
 ##
   
 <p align="center"> <b> Familiar with Operating Systems </p></b>
+  
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="50" height="50" />
+  </a>
+  
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="50" height="50" />
+  </a>
 
+  <a href="https://tails.boum.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/boum_tails/boum_tails-icon.svg" alt="tails" width="50" height="50" />
+  </a>
+  
 ![](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ##
 
