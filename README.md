@@ -6,6 +6,7 @@
 </p>
 
 ##
+
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nathalon&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Nathalon" /></p>
 
 ##
@@ -17,9 +18,17 @@
   
 <p align="center"> <b> Technical Skills </p></b>
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="50" height="50" />
+  
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby"
+      width="50" height="50" />  
+    
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" />
+  </a>
 
 ##
   
