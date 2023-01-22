@@ -50,6 +50,10 @@
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="50" height="50" />
   </a>
 
+  <a href="https://www.google.com/chromebook/chrome-os/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" alt="chromeos" width="50" height="50" />
+  </a>
+  
 ##
 
 <p align="center"> <b> Profile Views</p></b>
