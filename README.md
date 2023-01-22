@@ -13,17 +13,17 @@
 <p align="center"> <b>  Working on open source projects</b>
 <p align="center"> <b>  Open to collaborate on projects</b>
 
-##
-
-</details>
-
-## Technical Skills
+## 
+  
+<p align="center"> <b> Technical Skills </p>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Familiar with Operating Systems
+##
+  
+<p align="center"> <b> Familiar with Operating Systems </p>
 
 ![](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -34,10 +34,14 @@
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Profile Views
+##
+
+<p align="center"> <b> Profile Views</p></b>
 
 ![Visitor Count](https://profile-counter.glitch.me/{Nathalon}/count.svg) 
 
-## Language Usage Statistics
+##
+  
+<p align="center"> <b> Language Usage Statistics </p></b>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathalon&theme=dark&langs_count=8&layout=compact&hide_border=true)
