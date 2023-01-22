@@ -37,4 +37,4 @@
 
 ## Language Usage Statistics
 
-<p align="left"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nathalon&theme=gotham&line_height=40&hide=css"/> </a>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathalon&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
