@@ -7,6 +7,10 @@
 
 ##
 
+![Nathalon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalon&show_icons=true&theme=dark)
+
+##
+
 - <b>Working on open source projects</b> 
 - <b>Open to collaborate on projects</b>
 
@@ -37,4 +41,4 @@
 
 ## Language Usage Statistics
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathalon&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathalon&theme=dark)]
