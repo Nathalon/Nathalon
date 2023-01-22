@@ -15,7 +15,7 @@
 
 ## 
   
-<p align="center"> <b> Technical Skills </p>
+<p align="center"> <b> Technical Skills </p></b>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -23,7 +23,7 @@
 
 ##
   
-<p align="center"> <b> Familiar with Operating Systems </p>
+<p align="center"> <b> Familiar with Operating Systems </p></b>
 
 ![](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -37,11 +37,8 @@
 ##
 
 <p align="center"> <b> Profile Views</p></b>
-
-![Visitor Count](https://profile-counter.glitch.me/{Nathalon}/count.svg) 
+<p align="center">&nbsp;<img src="https://profile-counter.glitch.me/{Nathalon}/count.svg" alt="Nathalon" /></p>
 
 ##
-  
-<p align="center"> <b> Language Usage Statistics </p></b>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathalon&theme=dark&langs_count=8&layout=compact&hide_border=true)
+<p align="center">&nbsp;<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathalon&theme=dark&langs_count=8&layout=compact&hide_border=true" alt="Nathalon" /></p>
