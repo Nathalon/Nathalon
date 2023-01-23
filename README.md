@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=You+can+find+me+between+0+and+65535.;Red+Teaming+all+the+way.;Have+you+mooed+today?;xXx+Hack+The+Gibson+xXx;Don't+forget+to+take+the+red+pill.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=You+can+find+me+between+0+and+65,535.;Red+Teaming+all+the+way.;Have+you+mooed+today?;xXx+Hack+The+Gibson+xXx;Don't+forget+to+take+the+red+pill.)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/69394316/213891965-4e9c2409-f1f6-45cd-92fe-25f68c468a3d.gif" width="1000" height="600" />
   <p align="center">
