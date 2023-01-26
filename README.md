@@ -69,4 +69,7 @@
 
 ##
 
+<p align="center"> <b> Languages </p></b>
+
+
 <p align="center">&nbsp;<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathalon&theme=dark&langs_count=8&layout=compact&hide_border=true" alt="Nathalon" /></p>
