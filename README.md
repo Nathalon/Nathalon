@@ -17,7 +17,7 @@
 ## 
   
 <p align="center"> <b> Technical Skills </p></b>
-
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="50" height="50" />
@@ -33,6 +33,7 @@
 ##
   
 <p align="center"> <b> Familiar with Operating Systems </p></b>
+  <p align="center">
   
   <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="50" height="50" />
@@ -57,8 +58,8 @@
 ##
 
 <p align="center"> <b> Content Mananement Systems (CMS) </p></b>
-
-  <a href="https://www.joomla.org/" target="_blank" rel="noreferrer">
+<p align="center">
+    <a href="https://www.joomla.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="joomla" width="50" height="50" />
   </a>
   
