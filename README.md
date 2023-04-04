@@ -9,11 +9,6 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nathalon&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Nathalon" /></p>
 
-##
-
-<p align="center"> <b>  Working on open source projects</b>
-<p align="center"> <b>  Open to collaborate on projects</b>
-
 ## 
   
 <p align="center"> <b> Technical Skills </p></b>
