@@ -57,3 +57,10 @@
     <a href="https://www.joomla.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" alt="joomla" width="50" height="50" />
   </a>
+
+  
+
+<p align="center"> <b> Languages </p></b>
+
+
+<p align="center">&nbsp;<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathalon&theme=dark&langs_count=8&layout=compact&hide_border=true" alt="Nathalon" /></p>
