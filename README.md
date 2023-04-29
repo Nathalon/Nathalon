@@ -25,6 +25,8 @@
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" />
   </a>
 
+ <img src="https://user-images.githubusercontent.com/69394316/229928414-12a215e7-931f-4bd9-93fd-0171607b7823.png" alt="C" width="50" height="50" />
+    
 ##
   
 <p align="center"> <b> Familiar with Operating Systems </p></b>
