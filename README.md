@@ -5,10 +5,6 @@
       <b><a href="https://t.me/braindisassemblue">Contact Me on Telegram</a></b>
 </p>
 
-##
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nathalon&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Nathalon" /></p>
-
 ## 
   
 <p align="center"> <b> Technical Stack </p></b>
